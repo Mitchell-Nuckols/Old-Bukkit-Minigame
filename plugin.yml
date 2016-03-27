@@ -1,0 +1,9 @@
+name: MiniGame
+main: me.mitchisaperson.minigame.Minigame
+description: Minigame test
+version: 0.01
+commands:
+    mmg:
+        description: MiniGame command!
+    crate:
+        description: Gives a lit redstone lamp!
